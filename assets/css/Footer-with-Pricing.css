@@ -1,0 +1,29 @@
+.pricing-card .btn {
+  padding: 0;
+  line-height: 1;
+}
+
+.pricing-description {
+  font-size: 12px;
+}
+
+.pricing-card {
+  transition: transform .3s;
+}
+
+.pricing-card:hover {
+  transform: scale(1.05);
+}
+
+card:hover .btn {
+  color: white;
+}
+
+.btn {
+  transition: all .3s;
+}
+
+.oah {
+  background-color: #dd6ea5 !important;
+}
+
